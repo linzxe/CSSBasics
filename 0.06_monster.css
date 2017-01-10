@@ -1,0 +1,98 @@
+.wrapper{
+	margin: 200px;
+
+}
+.body{
+	width:225px;
+	height: 185px;
+	border: solid 1px black;
+	background-color: #8B6914;
+	border-radius: 50px;
+}
+.lefteye{
+	width:40px;
+	height: 40px;
+	border: solid 3px red;
+	background-color:black;
+	border-radius: 500px;
+	z-index: 1;
+	position:relative;
+	left: 55px;
+	top:25px;
+
+}
+.righteye{
+	width:60px;
+	height: 60px;
+	border: solid 3px red;
+	background-color:black;
+	border-radius: 500px;
+	z-index: 1;
+	position:relative;
+	left: 120px;
+	top:-16px;
+
+}
+.innerlefteye{
+	width:15px;
+	height: 15px;
+	border: solid 2px red;
+	background-color:white;
+	border-radius: 500px;
+	z-index: 1;
+	position:relative;
+	left: 59px;
+	top:-75px;
+
+}
+.innerrighteye{
+	width:15px;
+	height: 15px;
+	border: solid 2px red;
+	background-color:white;
+	border-radius: 500px;
+	z-index: 1;
+	position:relative;
+	left: 150px;
+	top:-65px;
+
+}
+.mouth{
+  width:150px;
+  height:50px; 
+  border:solid 1px black;
+  border-radius:45px 45px 0px 0px; /*Adjust this to change expression*/
+  margin:16px;
+  position:relative;
+  top:-50px;
+  left:18px;
+  background-color:black;
+}
+
+.tongue {
+  width:60px;
+  height:30px;
+  top:15px;
+  left:50px;
+  background-color:#FF7777;
+  border-radius:500px;
+  color:#FFFFFF;
+  position:relative;
+
+
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
